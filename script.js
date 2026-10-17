@@ -33,7 +33,7 @@ const portfolioItems = [
     category: 'realismo',
     ratio: 'tall',
     alt: 'Medalha de São Bento em realismo preto e cinza',
-    src: 'fotos/Medalha de São Bento.jpg',
+    src: 'fotos/Medalha de São Bento.webp',
   },
   {
     id: 2,
@@ -41,7 +41,7 @@ const portfolioItems = [
     category: 'animais',
     ratio: 'square',
     alt: 'Tatuagem em preto e cinza com degradê suave',
-    src: 'fotos/Onça Selvagem com Flores.jpg',
+    src: 'fotos/Onça Selvagem com Flores.webp',
   },
   {
     id: 3,
@@ -49,7 +49,7 @@ const portfolioItems = [
     category: 'animais',
     ratio: 'tall',
     alt: 'Tatuagem realista de um cachorro',
-    src: 'fotos/Tatuagem realista de um cachorro.jpg',
+    src: 'fotos/Tatuagem realista de um cachorro.webp',
   },
   {
     id: 4,
@@ -65,7 +65,7 @@ const portfolioItems = [
     category: 'colorido',
     ratio: 'tall',
     alt: 'Iron maiden colorido na perna',
-    src: 'fotos/IronMaiden.jpg',
+    src: 'fotos/IronMaiden.webp',
   },
     {
     id: 6,
@@ -73,7 +73,7 @@ const portfolioItems = [
     category: 'amplos',
     ratio: 'tall',
     alt: 'Fechamento Dorsal Leão',
-    src: 'fotos/fechamento costas Leão.jpg',
+    src: 'fotos/fechamento costas Leão.webp',
   },
     {
     id: 7,
@@ -81,7 +81,7 @@ const portfolioItems = [
     category: 'amplos',
     ratio: 'tall',
     alt: 'Fechamento Dorsal Tigre',
-    src: 'fotos/fechamento costas Tigre.jpg',
+    src: 'fotos/fechamento costas Tigre.webp',
   },
 ];
 
