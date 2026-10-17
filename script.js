@@ -57,7 +57,7 @@ const portfolioItems = [
     category: 'preto-cinza',
     ratio: 'tall',
     alt: 'Tatuagem Tres Anjos masculino no peito',
-    src: 'fotos/tres anjin masculino peito.jpg',
+    src: 'fotos/tres anjin masculino peito.webp',
   },
   {
     id: 5,
